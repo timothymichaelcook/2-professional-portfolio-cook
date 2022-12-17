@@ -1,21 +1,20 @@
-# Challenge1-Accessibility-Cook
+# Challenge2 Professional Portfolio Cook
 
-Project Page: [Project Page](https://timothymichaelcook.github.io/challenge1-accessibility-cook/)
+Project Page: [Project Page](https://timothymichaelcook.github.io/challenge2-professional-portfolio-cook/)
 
-Project Repo: [Github-pages](https://github.com/timothymichaelcook/challenge1-accessibility-cook)
+Project Repo: [Github-pages](https://github.com/timothymichaelcook/challenge2-professional-portfolio-cook)
 
 ## Description
 
-As a marketing agency, Horiseon wants a codebase to follow current accessibility standards which will result in Horiseon's webpage being optimized for search engines. Changes were made to the semeantic structure of the HTML and the styling of CSS selectors. Horiseon's webpage will also be better optimized for screen readers which will assist those with varying needs.
+As a bootcamp student, I need a portfolio of work that can showcase my skills and talents to employers. This webpage is designed to display a porfolio which includes the following sections: a navbar with ID links scrolling to different parts of the webpages, an about section describing myself , portfolio section to view deployed applications and a contact section with links for email, GitHub and more. 
 
 ## User Story
 
 ```
-- AS A marketing agency 
-- I WANT to follow current accessibilty standards
-- SO THAT I have an optimized webpape for search engines
+- AS A bootcamp student 
+- I WANT to have a portfolio webpage
+- SO THAT I showcase my portfolio to employers
 ```
-
 
 ## Installation
 
@@ -23,7 +22,7 @@ N/A
 
 ## Usage
 
-Each section contains information on Horiseon. The header acts as a navbar, with Horiseon's logo in the top left corner of the screen and the navbar in the top right corner of the screen. The contents of the navbar include search engine optimization, online reputation management and socialmedia marketing which when clicked, moves the page to the corresponding link. The main contents of the page hold descriptions and images of the navbar links. The aside elements holds paragraph elements and images displaying the benefits Horiseon's services offer. The footer is the final section of the page, displaying webpage and company information.
+The navbar contains four links, home, about, projects and contact. These links will take you to the part of the page requested. Below is an about section containing a header element and p tags introducing myself and describing my background. Following is the portfolio section using grid display, with each project being an individual card. The final section is the contact section made up of a header element and a tags creating the different links. The page responds to different media sizes and can still be modified for additional features. 
 
 
 ## Credits
@@ -38,6 +37,7 @@ MIT License
 
 ![Project Screenshot](./assets/images/screenshot1.png)
 ![Project Screenshot](./assets/images/screenshot2.png)
+![Project Screenshot](./assets/images/screenshot3.png)
 
 ## Contact
 Timothy Cook - timothy.michael.cook@gmail.com
